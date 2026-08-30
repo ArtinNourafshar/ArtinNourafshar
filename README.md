@@ -1,16 +1,13 @@
-## Hi there 👋
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Artin
+==============================================================================================================================
 
-<!--
-**ArtinNourafshar/ArtinNourafshar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-Stackk Developer 🧑🏻‍💻
+-----------------------------
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 🌍  I'm based in Iran
+* 🖥️  See my portfolio at [My portfolio](http://http://macodeteam.ir/)
+* ✉️  You can contact me at [artinnourafshar1387@gmail.com](mailto:artinnourafshar1387@gmail.com)
+* 🚀  I'm currently working on [FlutterFilm App](http://https://flutterfilm.vercel.app/#/movies)
+* 🧠  I'm currently learning Flutter
+* 👥  I'm looking to collaborate on intresting projects
+* 💬  Ask me about i will be a founder and a big developer 🤫 dreams come true one day !
