@@ -5,7 +5,7 @@
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
 <!-- 3D Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=3D&color=0:0d1117,25:1a1b27,50:2d1b69,75:1a1b27,100:0d1117&height=280&section=header&text=ARTIN%20NOURAFSHAR&fontSize=42&fontColor=ffffff&fontAlignY=40&desc=%F0%9F%A7%91%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB%20Full-Stack%20Developer%20%7C%20Flutter%20Enthusiast&descSize=18&descAlignY=60&animation=twinkling&stroke=FF6B35&strokeWidth=2" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=3D&color=0:0d1117,25:1a1b27,50:2d1b69,75:1a1b27,100:0d1117&height=300&section=header&text=ARTIN%20NOURAFSHAR&fontSize=48&fontColor=ffffff&fontAlignY=40&desc=%F0%9F%A7%91%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB%20Full-Stack%20Developer%20%7C%20Flutter%20Enthusiast&descSize=20&descAlignY=60&animation=twinkling&stroke=00d4ff&strokeWidth=3" width="100%" />
 
 </div>
 
@@ -14,7 +14,7 @@
 <div align="center">
 
 <!-- Typing Animation -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=FF6B35&center=true&vCenter=true&multiline=true&repeat=true&width=550&lines=%F0%9F%94%A5+Building+Ideas+Into+Reality%3B%F0%9F%A7%99+Always+Learning,+Always+Growing%3B%E2%9A%A1+Passionate+about+Clean+Code%3B%F0%9F%8E%AF+Let's+Create+Something+Amazing" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00d4ff&center=true&vCenter=true&multiline=true&repeat=true&width=600&lines=%F0%9F%94%A5+Building+Ideas+Into+Reality%3B%F0%9F%A7%99+Always+Learning,+Always+Growing%3B%E2%9A%A1+Passionate+about+Clean+Code%3B%F0%9F%8E%AF+Let's+Create+Something+Amazing" />
 
 </div>
 
@@ -23,7 +23,7 @@
 <div align="center">
 
 <!-- Stats Bar -->
-<img src="https://komarev.com/ghpvc/?username=artinNourafshar&label=Profile%20Views&color=FF6B35&style=flat-square&labelColor=1a1b27" width="180" />
+<img src="https://komarev.com/ghpvc/?username=artinNourafshar&label=Profile%20Views&color=00d4ff&style=flat-square&labelColor=1a1b27" width="180" />
 &nbsp;&nbsp;
 <a href="https://github.com/artinNourafshar?tab=followers">
   <img src="https://img.shields.io/github/followers/artinNourafshar?label=Followers&style=social" />
@@ -48,7 +48,7 @@
 <td width="30%" align="center">
 
 <!-- Profile Picture -->
-<img src="https://i.postimg.cc/0Q4s2jhQ/Aa-Bipn-DR9Yj-SRs-Ua-Dpn0s-A-Aa-Bipn-DRSz-Xx-HOKh-F8PWb-Q.jpg" width="180" style="border-radius: 20px; border: 4px solid #FF6B35; box-shadow: 0 8px 32px rgba(255,107,53,0.3);" alt="Artin Nourafshar" />
+<img src="https://i.postimg.cc/0Q4s2jhQ/Aa-Bipn-DR9Yj-SRs-Ua-Dpn0s-A-Aa-Bipn-DRSz-Xx-HOKh-F8PWb-Q.jpg" width="200" style="border-radius: 20px; border: 4px solid #00d4ff; box-shadow: 0 0 30px rgba(0,212,255,0.4);" alt="Artin Nourafshar" />
 
 </td>
 <td width="70%">
@@ -81,11 +81,11 @@ From frontend magic to backend fortresses, I build it all! 🚀
 
 ---
 
-## ⚔️ Tech Stack — The Arsenal
+## ⚡ Tech Stack — The Arsenal
 
 <div align="center">
 
-### 🗡️ Languages
+### 💻 Languages
 
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=1a1b27" />
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=1a1b27" />
@@ -186,12 +186,12 @@ From frontend magic to backend fortresses, I build it all! 🚀
 <tr>
 <td width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=artinNourafshar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=FF6B35&icon_color=58A6FF&text_color=c9d1d9" width="100%" />
+<img src="https://github-readme-stats.vercel.app/api?username=artinNourafshar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=00d4ff&icon_color=58A6FF&text_color=c9d1d9" width="100%" />
 
 </td>
 <td width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=artinNourafshar&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&bg_color=0d1117&title_color=FF6B35&text_color=c9d1d9" width="100%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=artinNourafshar&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&bg_color=0d1117&title_color=00d4ff&text_color=c9d1d9" width="100%" />
 
 </td>
 </tr>
@@ -203,7 +203,7 @@ From frontend magic to backend fortresses, I build it all! 🚀
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=artinNourafshar&theme=tokyonight&hide_border=true&background=0d1117&stroke=FF6B35&ring=FF6B35&fire=FF6B35&currStreakLabel=FF6B35&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" width="70%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=artinNourafshar&theme=tokyonight&hide_border=true&background=0d1117&stroke=00d4ff&ring=00d4ff&fire=00d4ff&currStreakLabel=00d4ff&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" width="70%" />
 
 </div>
 
@@ -243,7 +243,7 @@ From frontend magic to backend fortresses, I build it all! 🚀
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=artinNourafshar&bg_color=0d1117&color=FF6B35&line=58A6FF&point=FF6B35&area=true&area_color=FF6B35&hide_border=true" width="95%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=artinNourafshar&bg_color=0d1117&color=00d4ff&line=58A6FF&point=00d4ff&area=true&area_color=00d4ff&hide_border=true" width="95%" />
 
 </div>
 
@@ -263,7 +263,7 @@ From frontend magic to backend fortresses, I build it all! 🚀
 
 ---
 
-## 🏴‍☠️ Dev Quote of the Day
+## 💡 Dev Quote of the Day
 
 <div align="center">
 
@@ -354,115 +354,6 @@ Best code comes at midnight
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-<!--                    ONE PIECE SECTION                               -->
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-
-## 🏴‍☠️ One Piece — The Pirate King of Code
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=3D&color=0:0d1117,25:1a1b27,50:2d1b69,75:1a1b27,100:0d1117&height=150&section=header&text=%F0%9F%8F%8E%E2%80%8D%E2%9A%94%EF%B8%8F%20ONE%20PIECE%20DEVELOPER&fontSize=32&fontColor=FF0000&fontAlignY=45&desc=%22I'm%20gonna%20be%20King%20of%20the%20Developers!%22&descSize=16&descAlignY=65&animation=twinkling&stroke=FF0000&strokeWidth=2" width="100%" />
-
-</div>
-
-<br>
-
-<div align="center">
-
-<!-- One Piece Characters - Real Images -->
-<table>
-<tr>
-<td align="center" width="33%">
-
-<img src="https://img.shields.io/badge/%F0%9F%8F%8E%E2%80%8D%E2%9A%94%EF%B8%8F-LUFFY-FF0000?style=for-the-badge&labelColor=1a1b27&logo=github&logoColor=white" width="200" />
-
-<br>
-
-**Monkey D. Luffy**
-*Captain of the Straw Hat Pirates*
-*"I'm gonna be King of the Developers!"*
-
-</td>
-<td align="center" width="33%">
-
-<img src="https://img.shields.io/badge/%E2%9A%94%EF%B8%8F-ZORO-00A86B?style=for-the-badge&labelColor=1a1b27&logo=github&logoColor=white" width="200" />
-
-<br>
-
-**Roronoa Zoro**
-*Three-Sword Style Master*
-*"Nothing happened... I just coded all night."*
-
-</td>
-<td align="center" width="33%">
-
-<img src="https://img.shields.io/badge/%F0%9F%94%A5-ACE-FF4500?style=for-the-badge&labelColor=1a1b27&logo=github&logoColor=white" width="200" />
-
-<br>
-
-**Portgas D. Ace**
-*Fire Fist*
-*"My code burns with the heat of a thousand suns!"*
-
-</td>
-</tr>
-</table>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<!-- One Piece Themed Badges -->
-<img src="https://img.shields.io/badge/%F0%9F%8F%8E%E2%80%8D%E2%9A%94%EF%B8%8F-Luffy%20Mode%3A%20ACTIVATED-FF0000?style=for-the-badge&labelColor=1a1b27&logo=onepiece&logoColor=white" />
-&nbsp;
-<img src="https://img.shields.io/badge/%F0%9F%94%AA-Zoro's%20Three%20Sword%20Style-00A86B?style=for-the-badge&labelColor=1a1b27" />
-&nbsp;
-<img src="https://img.shields.io/badge/%F0%9F%8E%AF-Haki%20of%20the%20King-9B59B6?style=for-the-badge&labelColor=1a1b27" />
-&nbsp;
-<img src="https://img.shields.io/badge/%F0%9F%94%A5-Fire%20Fist-FF4500?style=for-the-badge&labelColor=1a1b27" />
-
-</div>
-
-<br>
-
-<div align="center">
-
-<!-- One Piece Motto -->
-<img src="https://capsule-render.vercel.app/api?type=thesis&color=0:0d1117,50:1a1b27,100:2d1b69&height=120&section=about&text=%F0%9F%9A%A8%20WARNING%3A%20I%20AM%20A%20STRAW%20HAT%20PIRATE%20DEVELOPER!%20%F0%9F%9A%A8%0A%0A%F0%9F%8F%8E%E2%80%8D%E2%9A%94%EF%B8%8F%20I%20code%20with%20the%20same%20spirit%20as%20Luffy%20—%20never%20giving%20up!&fontSize=14&fontColor=ffffff&desc=ONE%20PIECE%20IS%20REAL!%20%E2%9C%A8&descSize=16&animation=fadeIn&stroke=FF0000&strokeWidth=1" width="80%" />
-
-</div>
-
-<br>
-
-<div align="center">
-
-<!-- One Piece Crew Badges -->
-<img src="https://img.shields.io/badge/%F0%9F%8E%AF-Straw%20Hat%20Crew-FFD700?style=for-the-badge&labelColor=1a1b27" width="180" />
-&nbsp;
-<img src="https://img.shields.io/badge/%F0%9F%8F%8E%E2%80%8D%E2%9A%94%EF%B8%8F-Gomu%20Gomu%20no%20Code-FF0000?style=for-the-badge&labelColor=1a1b27" width="200" />
-&nbsp;
-<img src="https://img.shields.io/badge/%E2%9A%94%EF%B8%8F-Santoryu%20Programming-00A86B?style=for-the-badge&labelColor=1a1b27" width="200" />
-&nbsp;
-<img src="https://img.shields.io/badge/%F0%9F%94%A5-Hiken%20no%20Code-FF4500?style=for-the-badge&labelColor=1a1b27" width="180" />
-
-</div>
-
-<br>
-
-<div align="center">
-
-<!-- One Piece Quote -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF0000,50:CC0000,100:990000&height=180&section=footer&text=%F0%9F%8F%8E%E2%80%8D%E2%9A%94%EF%B8%8F%20'I'm%20gonna%20be%20King%20of%20the%20Developers!'%20%F0%9F%91%8B&fontSize=18&fontColor=ffffff&animation=twinkling" width="100%" />
-
-</div>
-
-<br>
-
----
-
 <div align="center">
 
 <!-- Main Footer -->
@@ -470,10 +361,10 @@ Best code comes at midnight
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=artinNourafshar&label=Total%20Visitors&color=FF6B35&style=flat-square&labelColor=1a1b27&countPrivate=true" />
+<img src="https://komarev.com/ghpvc/?username=artinNourafshar&label=Total%20Visitors&color=00d4ff&style=flat-square&labelColor=1a1b27&countPrivate=true" />
 
 <br>
 
-<img src="https://img.shields.io/badge/Made%20with%20%E2%9D%A4%EF%B8%8F%20by%20Artin-FF6B35?style=for-the-badge&labelColor=1a1b27" />
+<img src="https://img.shields.io/badge/Made%20with%20%E2%9D%A4%EF%B8%8F%20by%20Artin-00d4ff?style=for-the-badge&labelColor=1a1b27" />
 
 </div>
