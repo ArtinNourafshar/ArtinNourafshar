@@ -1,27 +1,23 @@
 <div align="center">
 
-# ═══════════════════════════════════════════════════════════════
-# ✨ ARTIN NOURAFSHAR ✨
-# ═══════════════════════════════════════════════════════════════
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!--                      ARTIN NOURAFSHAR                             -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,25:1a1b27,50:2d1b69,75:1a1b27,100:0d1117&height=280&section=header&text=ARTIN%20NOURAFSHAR&fontSize=42&fontColor=ffffff&fontAlignY=40&desc=%F0%9F%A7%91%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB%20Full-Stack%20Developer%20%7C%20Flutter%20Enthusiast&descSize=18&descAlignY=60&animation=twinkling&stroke=00d4ff&strokeWidth=2" width="100%" />
 
 <br>
 
-<img src="https://i.postimg.cc/0Q4s2jhQ/Aa-Bipn-DR9Yj-SRs-Ua-Dpn0s-A-Aa-Bipn-DRSz-Xx-HOKh-F8PWb-Q.jpg" width="200" style="border-radius: 50%; border: 5px solid #00d4ff; box-shadow: 0 0 30px rgba(0,212,255,0.5);" alt="Artin Nourafshar" />
-
-<br><br>
-
-# 👋 Hello World! I'm Artin
-
-### `const developer = { name: "Artin Nourafshar", role: "Full-Stack Developer", location: "Iran 🇮🇷", passion: "Building Dreams" };`
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00d4ff&center=true&vCenter=true&multiline=true&repeat=true&width=550&lines=%F0%9F%94%A5+Building+Ideas+Into+Reality%3B%F0%9F%A7%99+Always+Learning,+Always+Growing%3B%E2%9A%A1+Passionate+about+Clean+Code%3B%F0%9F%8E%AF+Let's+Create+Something+Amazing" />
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=artinNourafshar&label=Profile%20Views&color=00d4ff&style=flat-square" />
-&nbsp;
+<img src="https://komarev.com/ghpvc/?username=artinNourafshar&label=Profile%20Views&color=00d4ff&style=flat-square&labelColor=1a1b27" width="180" />
+&nbsp;&nbsp;
 <a href="https://github.com/artinNourafshar?tab=followers">
   <img src="https://img.shields.io/github/followers/artinNourafshar?label=Followers&style=social" />
 </a>
-&nbsp;
+&nbsp;&nbsp;
 <a href="https://github.com/artinNourafshar?tab=repositories&sort=stargazers">
   <img src="https://img.shields.io/github/stars/artinNourafshar?label=Stars&color=FFD700&style=social" />
 </a>
@@ -36,23 +32,24 @@
 
 <table>
 <tr>
-<td width="50%">
+<td width="30%" align="center">
 
-### 👋 Who Am I?
+<img src="https://i.postimg.cc/0Q4s2jhQ/Aa-Bipn-DR9Yj-SRs-Ua-Dpn0s-A-Aa-Bipn-DRSz-Xx-HOKh-F8PWb-Q.jpg" width="200" style="border-radius: 20px; border: 4px solid #00d4ff; box-shadow: 0 0 30px rgba(0,212,255,0.4);" alt="Artin Nourafshar" />
+
+</td>
+<td width="70%">
+
+### 👋 **Hello! I'm Artin**
 
 I'm a **Full-Stack Developer** based in **Iran** 🇮🇷, passionate about crafting beautiful and functional digital experiences. I love turning ideas into reality through clean code and thoughtful design.
 
 From frontend magic to backend fortresses, I build it all! 🚀
 
-</td>
-<td width="50%">
-
-### 🎯 My Journey
-
-- 🚀 Currently building **FlutterFilm App**
-- 🧠 Always learning **Flutter**
-- 👥 Open to collaborate on projects
-- 💬 Working toward becoming a **founder**
+**🎯 My Journey:**
+- 🚀 Currently building **FlutterFilm App** — a cinematic movie browsing experience
+- 🧠 Always learning **Flutter** & diving deep into mobile development
+- 👥 Open to **collaborate** on exciting open-source projects
+- 💬 Working toward becoming a **founder** & building something big! 🤫
 
 </td>
 </tr>
@@ -77,10 +74,12 @@ From frontend magic to backend fortresses, I build it all! 🚀
 **Languages**
 <br><br>
 
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /><br>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" /><br>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /><br>
-<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=1a1b27" /><br>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=1a1b27" /><br>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=1a1b27" /><br>
+<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white&labelColor=1a1b27" /><br>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=1a1b27" /><br>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=1a1b27" />
 
 </td>
 <td align="center" width="20%">
@@ -88,10 +87,12 @@ From frontend magic to backend fortresses, I build it all! 🚀
 **Frontend**
 <br><br>
 
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /><br>
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" /><br>
-<img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" /><br>
-<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=1a1b27" /><br>
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white&labelColor=1a1b27" /><br>
+<img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D&labelColor=1a1b27" /><br>
+<img src="https://img.shields.io/badge/Nuxt-00DC82?style=for-the-badge&logo=nuxtdotjs&logoColor=white&labelColor=1a1b27" /><br>
+<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white&labelColor=1a1b27" /><br>
+<img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white&labelColor=1a1b27" />
 
 </td>
 <td align="center" width="20%">
@@ -99,10 +100,12 @@ From frontend magic to backend fortresses, I build it all! 🚀
 **Backend**
 <br><br>
 
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" /><br>
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" /><br>
-<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" /><br>
-<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=1a1b27" /><br>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white&labelColor=1a1b27" /><br>
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white&labelColor=1a1b27" /><br>
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white&labelColor=1a1b27" /><br>
+<img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white&labelColor=1a1b27" /><br>
+<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white&labelColor=1a1b27" />
 
 </td>
 <td align="center" width="20%">
@@ -110,21 +113,25 @@ From frontend magic to backend fortresses, I build it all! 🚀
 **Database**
 <br><br>
 
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" /><br>
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" /><br>
-<img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white" /><br>
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=1a1b27" /><br>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=1a1b27" /><br>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=1a1b27" /><br>
+<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white&labelColor=1a1b27" /><br>
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black&labelColor=1a1b27" /><br>
+<img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white&labelColor=1a1b27" />
 
 </td>
 <td align="center" width="20%">
 
-**Tools**
+**Tools & DevOps**
 <br><br>
 
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /><br>
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" /><br>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /><br>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=1a1b27" /><br>
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white&labelColor=1a1b27" /><br>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=1a1b27" /><br>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black&labelColor=1a1b27" /><br>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=1a1b27" /><br>
+<img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white&labelColor=1a1b27" />
 
 </td>
 </tr>
@@ -134,22 +141,61 @@ From frontend magic to backend fortresses, I build it all! 🚀
 
 ---
 
-## 💻 GitHub Stats
+## 💻 Code of the Day
 
 <table>
 <tr>
 <td width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=artinNourafshar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="100%" />
+<img src="https://github-readme-card.vercel.app/card?username=artinNourafshar&theme=radical&include_owner=true" width="100%" />
 
 </td>
 <td width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=artinNourafshar&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="100%" />
+```javascript
+const developer = {
+  name: "Artin Nourafshar",
+  role: "Full-Stack Developer",
+  location: "Iran 🇮🇷",
+  skills: ["JavaScript", "TypeScript", "Python", "Dart", "Flutter"],
+  passion: "Building Dreams Into Reality",
+  currentProject: "FlutterFilm App",
+  goal: "Become a Founder 🚀"
+};
+```
 
 </td>
 </tr>
 </table>
+
+<br>
+
+---
+
+## 📊 GitHub Stats — The Bounty on My Head
+
+<table>
+<tr>
+<td width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api?username=artinNourafshar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=00d4ff&icon_color=58A6FF&text_color=c9d1d9" width="100%" />
+
+</td>
+<td width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=artinNourafshar&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&bg_color=0d1117&title_color=00d4ff&text_color=c9d1d9" width="100%" />
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=artinNourafshar&theme=tokyonight&hide_border=true&background=0d1117&stroke=00d4ff&ring=00d4ff&fire=00d4ff&currStreakLabel=00d4ff&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" width="70%" />
+
+</div>
 
 <br>
 
@@ -166,6 +212,63 @@ From frontend magic to backend fortresses, I build it all! 🚀
 ## 📈 Activity Graph
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=artinNourafshar&bg_color=0d1117&color=00d4ff&line=58A6FF&point=00d4ff&area=true&area_color=00d4ff&hide_border=true" width="100%" />
+
+<br>
+
+---
+
+## 💡 Dev Quote of the Day
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="70%" />
+
+<br>
+
+---
+
+## 🎮 Fun Facts
+
+<table>
+<tr>
+<td width="33%">
+
+### 🎵 Music
+Lo-Fi Beats for coding sessions
+
+</td>
+<td width="33%">
+
+### ⚡ IDE
+VS Code is my weapon of choice
+
+</td>
+<td width="33%">
+
+### 🖱️ Key
+Space Bar — the most used key!
+
+</td>
+</tr>
+<tr>
+<td>
+
+### 🖥️ Setup
+Full-Stack Development Environment
+
+</td>
+<td>
+
+### ☕ Fuel
+Coffee + Code = Productivity
+
+</td>
+<td>
+
+### 🌙 Night Owl
+Best code comes at midnight
+
+</td>
+</tr>
+</table>
 
 <br>
 
@@ -199,10 +302,14 @@ From frontend magic to backend fortresses, I build it all! 🚀
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=artinNourafshar&label=Total%20Visitors&color=00d4ff&style=flat-square" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:2d1b69&height=200&section=footer&text=%F0%9F%91%8B%20Thanks%20for%20Visiting!%20See%20You%20Soon!&fontSize=18&fontColor=ffffff&animation=twinkling" width="100%" />
 
-<br><br>
+<br>
 
-**Thanks for visiting! 🚀**
+<img src="https://komarev.com/ghpvc/?username=artinNourafshar&label=Total%20Visitors&color=00d4ff&style=flat-square&labelColor=1a1b27&countPrivate=true" />
+
+<br>
+
+<img src="https://img.shields.io/badge/Made%20with%20%E2%9D%A4%EF%B8%8F%20by%20Artin-00d4ff?style=for-the-badge&labelColor=1a1b27" />
 
 </div>
