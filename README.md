@@ -4,8 +4,8 @@
 <!--                      ARTIN NOURAFSHAR                             -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
-<!-- 3D Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=3D&color=0:0d1117,25:1a1b27,50:2d1b69,75:1a1b27,100:0d1117&height=300&section=header&text=ARTIN%20NOURAFSHAR&fontSize=48&fontColor=ffffff&fontAlignY=40&desc=%F0%9F%A7%91%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB%20Full-Stack%20Developer%20%7C%20Flutter%20Enthusiast&descSize=20&descAlignY=60&animation=twinkling&stroke=00d4ff&strokeWidth=3" width="100%" />
+<!-- Animated Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,25:1a1b27,50:2d1b69,75:1a1b27,100:0d1117&height=280&section=header&text=ARTIN%20NOURAFSHAR&fontSize=42&fontColor=ffffff&fontAlignY=40&desc=%F0%9F%A7%91%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB%20Full-Stack%20Developer%20%7C%20Flutter%20Enthusiast&descSize=18&descAlignY=60&animation=twinkling&stroke=00d4ff&strokeWidth=2" width="100%" />
 
 </div>
 
@@ -14,7 +14,7 @@
 <div align="center">
 
 <!-- Typing Animation -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00d4ff&center=true&vCenter=true&multiline=true&repeat=true&width=600&lines=%F0%9F%94%A5+Building+Ideas+Into+Reality%3B%F0%9F%A7%99+Always+Learning,+Always+Growing%3B%E2%9A%A1+Passionate+about+Clean+Code%3B%F0%9F%8E%AF+Let's+Create+Something+Amazing" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00d4ff&center=true&vCenter=true&multiline=true&repeat=true&width=550&lines=%F0%9F%94%A5+Building+Ideas+Into+Reality%3B%F0%9F%A7%99+Always+Learning,+Always+Growing%3B%E2%9A%A1+Passionate+about+Clean+Code%3B%F0%9F%8E%AF+Let's+Create+Something+Amazing" />
 
 </div>
 
@@ -166,7 +166,7 @@ From frontend magic to backend fortresses, I build it all! 🚀
 </td>
 <td width="50%">
 
-<img src="https://github-wakatime-stats.vercel.app/api?username=artinNourafshar&theme=tokyonight&hide_border=true&bg_color=0d1117" width="100%" />
+<img src="https://github-readme-stats.vercel.app/api?username=artinNourafshar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=00d4ff&icon_color=58A6FF&text_color=c9d1d9" width="100%" />
 
 </td>
 </tr>
@@ -223,39 +223,11 @@ From frontend magic to backend fortresses, I build it all! 🚀
 
 ---
 
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/artinNourafshar/artinNourafshar/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/artinNourafshar/artinNourafshar/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/artinNourafshar/artinNourafshar/output/github-snake.svg" />
-</picture>
-
-</div>
-
-<br>
-
----
-
 ## 📈 Activity Graph — The Grand Line Journey
 
 <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=artinNourafshar&bg_color=0d1117&color=00d4ff&line=58A6FF&point=00d4ff&area=true&area_color=00d4ff&hide_border=true" width="95%" />
-
-</div>
-
-<br>
-
----
-
-## 🎯 WakaTime Stats
-
-<div align="center">
-
-<img src="https://github-wakatime-stats.vercel.app/api?username=artinNourafshar&theme=tokyonight&hide_border=true&bg_color=0d1117" width="70%" />
 
 </div>
 
